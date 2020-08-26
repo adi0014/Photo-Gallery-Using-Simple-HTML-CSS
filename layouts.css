@@ -1,0 +1,153 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+	background-image: url(b5.png);
+}
+nav{
+background: #594848;
+width:100%;
+overflow:auto;
+}
+ul{
+margin: 0;
+padding: 0;
+list-style:none;
+}
+li{
+float:left;
+}
+nav a{
+width:120px;
+display:block;
+text-decoration:none;
+text-align:center;
+background:#594848;
+font-size:17px;
+color:white;
+padding:20px 10px;
+font-family:Arial;
+}
+nav a:hover{
+background:#067480;
+color:#F6997F
+}
+.container{
+  width:1280px;
+
+  display: flex;
+ 
+  margin: 60px auto 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+             
+}
+
+.container {
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:380px; /* 400px */
+	background-color: #fff;
+	padding:20px;
+	box-sizing: border-box;
+	box-shadow: 0 5px 10px rgba(0,0,0,.2);
+	border:1px solid rgba(0,0,0,.1);
+}
+.logo {
+	margin-top:-90px;
+	margin-bottom:110px;
+	color:#008080; /* 824b60 */
+	font-weight:bold;
+}
+.logo > img {
+	width:90px;
+	height:90px;
+	position:absolute;
+	top:10px;
+	left:0px; /* 80px */
+}
+.logo > h2 {
+	position:absolute;
+	top:35px;
+	left:80px;
+	text-transform: uppercase;
+	font-size:18px;
+}
+
+.container input {
+	padding:6px 0;
+	margin-bottom:45px;
+}
+.container select {
+	padding:6px 0;
+	margin-bottom:25px;
+}
+.container textarea {
+	height:100px;
+	padding:6px 0;
+	margin-bottom:25px;
+}
+.container input,
+.container select,
+.container textarea {
+	width:100%;
+	box-sizing: border-box;
+	box-shadow: none;
+	outline:none;
+	border:none;
+	border-bottom:1px solid #999;
+	font-family:sans-serif;
+	font-weight:lighter;
+	font-size:15px;
+}
+
+.container div {
+	position:relative;
+}
+.container form div label {
+	position:absolute;
+	top:7px;
+	left:0;
+	color:#999;
+	transition:0.5s;
+	pointer-events:none;
+}
+.container input:focus ~ label,
+.container select:focus ~ label,
+.container textarea:focus ~ label 
+{
+	top:-13px;
+	font-size:12px;
+	font-weight:bold;
+	color:#008080; /* 824b60 */
+}
+.container input:valid ~ label,
+.container select:valid ~ label,
+.container textarea:valid ~ label 
+{
+	top:-13px;
+	font-size:12px;
+	font-weight:bold;
+	color:#008080; /* 824b60 */
+}
+.container input:focus,
+.container select:focus,
+.container textarea:focus,
+.container input:valid,
+.container select:valid,
+.container textarea:valid
+{
+	border-bottom:1px solid #008080;  /* 824b60 */
+} 
+.container input[type="submit"] {
+	 border-bottom:none;
+	 margin-bottom:0;
+	 text-transform: uppercase;
+	 cursor:pointer;
+	 background-color:#008080;
+	 color:#fff;
+	 
+	 border-top-width: 20%;
+}

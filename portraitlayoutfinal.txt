@@ -1,0 +1,188 @@
+
+
+<!DOCTYPE html>
+<html><head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>IMAGINE MORE WITH OUR GALLERY</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="file:///C:/Users/HP/Desktop/final/homefinal.html"> Home </a></li>
+<li><a href="#"> Contact </a></li>
+<li><a href="file:///C:/Users/HP/Desktop/final/naturelayout.html"> Nature </a></li>
+<li><a href="file:///C:/Users/HP/Desktop/final/animallayout1.html"> Animals </a></li>
+</ul>
+</nav>
+<h1 style= "color:pink; text-align:center; class="text">
+<font face = "Comic sans MS">Look Closer..</font>
+</h1>
+ <div class="container">
+  <div class="box 1">
+ <div class="imgBox">
+  <img src="imgp1.jpg">
+  </div> <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div></div>
+
+  <div class="box 2">
+<div class="imgBox">
+  <img src="imgp2.jpg">
+  </div> <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 3">
+<div class="imgBox">
+  <img src="imgp3.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 4">
+<div class="imgBox">
+  <img src="imgp4.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 5">
+<div class="imgBox">
+  <img src="imgp5.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 6">
+<div class="imgBox">
+  <img src="imgp6.jpg">
+  </div> <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div></div>
+  <div class="box 7">
+<div class="imgBox">
+  <img src="imgp7.jpg">
+  </div> <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 8">
+<div class="imgBox">
+  <img src="imgp8.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 9">
+<div class="imgBox">
+  <img src="imgp9.jpg">
+  </div> <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 10">
+<div class="imgBox">
+  <img src="imgp10.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+
+  <div class="box 11">
+<div class="imgBox">
+  <img src="imgp10.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+  <div class="box 12">
+<div class="imgBox">
+  <img src="imgp10.jpg">
+  </div>
+ <div class="desc">
+  <div class="content">
+  <h2>ABCDEFG</h2>
+  <p>dsfaggsjgdgbjgbjdsa
+  vjdvbjbjdjvbjdbvjbsajvj
+  bdjvbjbvjjvbjsbvvjdbv
+  jbvdjvbjbvjbjvbjd</p>
+  </div>
+  </div>
+</div>
+<footer>
+<p style="text-align:center">Copyrighs &copy; reserved</p>
+</footer>
+</body></html>

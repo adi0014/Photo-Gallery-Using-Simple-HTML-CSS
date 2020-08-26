@@ -1,0 +1,121 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background-color: #262626;
+  font-family: sans-serif;
+}
+nav{
+background: #594848;
+width:100%;
+overflow:auto;
+}
+ul{
+margin: 0;
+padding: 0;
+list-style:none;
+}
+li{
+float:left;
+}
+nav a{
+width:120px;
+display:block;
+text-decoration:none;
+text-align:center;
+background:#594848;
+font-size:17px;
+color:white;
+padding:20px 10px;
+font-family:Arial;
+}
+nav a:hover{
+background:#067480;
+color:#F6997F
+}
+.container{
+  width:1280px;
+
+  display: flex;
+ 
+  margin: 70px auto 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+             
+}
+.container .box
+{
+  position: relative;
+  width: 300px;
+  height: 200px;
+  background: #ff0;
+  margin: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.container .box .imgBox
+{
+	position: relative;
+  overflow: hidden;
+  top: 0;
+  left:0;
+  width:300px;
+  height:300px;
+  object-fit: cover;
+}
+.container .box .imgBox img
+{
+   max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+           
+  transition: transform 2s;
+}
+.container .box:hover .imgBox img
+{
+  transform: scale(1.2); 
+}
+.container .box .desc
+{
+  position:absolute;
+  top:10px;
+  left:10px;
+  bottom:10px;
+  right:10px;
+  background: rgba(0,0,0,.8);  
+  transform: scaleY(0);
+  transition: transform .5s;
+}
+.container .box:hover .desc
+{
+   transform: scaleY(1);
+}
+.container .box .desc .content
+{
+  position:absolute;
+  top: 50px;
+  transform: translateY(-50%);
+  text-align: center;
+  padding: 15px;
+  color:#fff;
+}
+.container .box .desc .content h2
+{
+  margin:10px 0 0;
+  padding:0;
+  
+}
+.container .box .desc .content p
+{
+  margin:0;
+  padding:0;
+  font-size: 20px;
+  color: #ff0;
+}
+.text { font-family: "calibri", Garamond, 'Comic Sans MS'; }
+.media{
+position: absolute;
+top:950px;
+left: 50%;
+transform: translate(-53%,-50%);
+}
